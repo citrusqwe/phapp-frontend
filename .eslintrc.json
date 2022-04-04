@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals",
+  "overrides": [
+    {
+      "rules": {
+        "@next/next/no-img-element": "off"
+      }
+    }
+  ]
+}
